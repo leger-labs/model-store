@@ -1,3 +1,5 @@
+! TODO: reach through https://kyuz0.github.io/amd-strix-halo-toolboxes/ and get all referenced models
+
 # Leger Model Store
 
 A curated, rolling-basis repository of LLM model definitions for the Leger AI platform.
